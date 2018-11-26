@@ -15,3 +15,8 @@ elif X>=19:
     print('True')
 else:
     print('False')
+                                                               
+                                                               
+второй вариант решения
+n = int(input())
+print(-15 < n <= 12 or 14 < n < 17 or 19 <= n)
